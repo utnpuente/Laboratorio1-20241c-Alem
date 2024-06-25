@@ -11,6 +11,19 @@ using namespace std;
 
 */
 
+/*
+    EJERCICIO EXTRA
+
+    Un profesor necesita pasar las notas de los 5 exámenes que le tomo a sus 10 alumnos
+    durante el cuatrimestre.
+
+    Solicita legajo por cada alumno y la nota de sus 5 exámenes.
+
+    a) promedio de notas
+    b) cantidad de alumnos que rinden finales (al menos un examen aprobado, pero no todos)
+
+*/
+
 int main()
 {
     setlocale(LC_ALL, "spanish");
