@@ -7,6 +7,7 @@ int multiplicarPorRandom(int, int &);
 void pedirIngreso(int &);
 void mostrarResultado(string);
 
+
 int main()
 {
     system("cls");
@@ -21,10 +22,9 @@ int main()
     resultado = multiplicarPorRandom(nro, multiplicador);
 
     cout << nro << " x "<< multiplicador << " = " << resultado << endl;
-    mostrarResultado("El resultado");
-    
+    mostrarResultado("El resultado");  
 
-    system("pause > nul");
+     system("pause > nul");
     return 0;
 }
 
