@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1719925195 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\alem\laboratorio1-20241c-alem\semana 13\semana_13\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+
+1719924998 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\alem\laboratorio1-20241c-alem\semana 13\semana_13\main.cpp
+	<iostream>
+	<time.h>
+	"funciones.h"
+
+1719925379 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\alem\laboratorio1-20241c-alem\semana 13\semana_13\funciones.h
+
