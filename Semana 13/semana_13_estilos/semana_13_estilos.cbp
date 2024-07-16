@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="semana_13" />
+		<Option title="semana_13_estilos" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/semana_13" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/semana_13_estilos" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/semana_13" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/semana_13_estilos" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,17 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="b.cpp" />
-		<Unit filename="b.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="funciones.cpp" />
-		<Unit filename="funciones.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
 		<Unit filename="main.cpp" />
-		<Extensions>
-			<lib_finder disable_auto="1" />
-		</Extensions>
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

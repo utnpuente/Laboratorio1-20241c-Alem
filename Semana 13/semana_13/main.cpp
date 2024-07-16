@@ -7,7 +7,10 @@
 
 #include <iostream>
 #include <time.h>
+
+#include "b.h"
 #include "funciones.h"
+
 using namespace std;
 
 int main()
@@ -35,7 +38,6 @@ int main()
     }
 
     cout << "Las tiradas de igual cara de dados fueron " << contIguales << endl;
-
 
     return 0;
 }

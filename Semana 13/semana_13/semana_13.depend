@@ -1,13 +1,23 @@
 # depslib dependency file v1.0
-1719925195 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\alem\laboratorio1-20241c-alem\semana 13\semana_13\funciones.cpp
+1719938776 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\alem\laboratorio1-20241c-alem\semana 13\semana_13\funciones.cpp
 	<iostream>
 	<cstdlib>
 	"funciones.h"
+	"b.h"
 
-1719924998 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\alem\laboratorio1-20241c-alem\semana 13\semana_13\main.cpp
+1719938694 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\alem\laboratorio1-20241c-alem\semana 13\semana_13\main.cpp
 	<iostream>
 	<time.h>
+	"b.h"
 	"funciones.h"
 
-1719925379 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\alem\laboratorio1-20241c-alem\semana 13\semana_13\funciones.h
+1719938896 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\alem\laboratorio1-20241c-alem\semana 13\semana_13\funciones.h
+	"b.h"
+
+1719938900 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\alem\laboratorio1-20241c-alem\semana 13\semana_13\b.h
+	"funciones.h"
+
+1719938803 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio 1\2024\alem\laboratorio1-20241c-alem\semana 13\semana_13\b.cpp
+	<iostream>
+	"b.h"
 
